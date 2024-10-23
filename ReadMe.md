@@ -33,6 +33,7 @@ Notes
 | paper| You Lost <br> Computer Score: 1 <br> User Score: 0 |
 |scissors| You Lost <br> Computer Score: 1 <br> User Score: 0  |
 |"a"|Invaild Input|
+
 ## Licenses
 
-
+License can be found in the "doc" folder.
