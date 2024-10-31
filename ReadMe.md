@@ -23,13 +23,30 @@ For this project I used Python, this was because I was using this project as a w
 
 I didn't really come across any challenges however, I did have trouble setting up the while loop and conditionals. I overcame this by setting the main bulk of the program inside a while loop set to true, as well as using a mix of and/or statments in the if statements to streamline the code.
 
-## How to Install and Run the Project
-
-
-
 ## How to Use the Project
 
+1. **Clone The Repository:**
 
+   This saves the code to your local device.
+
+2. **Run The Game**
+
+   Open a terminal and navigate to the directory where you have         stored the code. To run the code input this in the terminal:
+   `python Rock Paper Scissors.py`
+
+3.  **Play The Game**
+
+   * When your prompted, enter your choice: `Rock`, `Paper`, or `Scissors`.
+   * To stop playing, input `Quit`.
+
+4. **Game Rules**
+
+    * The computer player will randomly choose between Rock, Paper, Scissors.
+    * The game then compares choices to determine a winner:
+        * Rock breaks Scissors
+        * Scissors cuts Paper
+        * Paper wraps Rock
+    * The game will keep track of scores for both the user and the computer.
 
 ## Licenses
 
