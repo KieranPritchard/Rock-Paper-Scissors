@@ -27,7 +27,7 @@ I didn't really come across any challenges however, I did have trouble setting u
 
 1. **Clone The Repository:**
 
-   This saves the code to your local device.
+    This saves the code to your local device.
 
 2. **Run The Game**
 
@@ -47,6 +47,10 @@ I didn't really come across any challenges however, I did have trouble setting u
         * Scissors cuts Paper
         * Paper wraps Rock
     * The game will keep track of scores for both the user and the computer.
+  
+5. **End The Game**
+
+   When `Quit` is entered, the game displays the final scores for that session and stops the program.
 
 ## Licenses
 
