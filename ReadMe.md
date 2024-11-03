@@ -32,7 +32,7 @@ I didn't really come across any challenges however, I did have trouble setting u
 2. **Run The Game**
 
    Open a terminal and navigate to the directory where you have         stored the code. To run the code input this in the terminal:
-   `python Rock Paper Scissors.py`
+   `python Rock_Paper_Scissors.py`
 
 3.  **Play The Game**
 
