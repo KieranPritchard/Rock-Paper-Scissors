@@ -54,4 +54,4 @@ I didn't really come across any challenges however, I did have trouble setting u
 
 ## Licenses
 
-License can be found in the "doc" folder.
+License can be found in the root of the repository.
